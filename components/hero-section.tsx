@@ -57,7 +57,7 @@ export function HeroSection() {
               className="flex flex-wrap gap-4"
             >
               <Button size="lg" className="group" asChild>
-                <a href="/Sushma Avala_Resume.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="/Sushma_Avala_FT.pdf">
                   <FileText className="mr-2 h-4 w-4" />
                   View Resume
                 </a>
